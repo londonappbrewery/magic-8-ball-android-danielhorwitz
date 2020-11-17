@@ -3,4 +3,5 @@
     <string name="askButtonName">Ask</string>
     <string name="askButtonDescription">Ask</string>
     <string name="headerText">Make everyday decisions easier!</string>
+    <string name="eightBallDescription">Eight Ball</string>
 </resources>
